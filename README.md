@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Masterx0202
+- 👋 Hi, I’m @Xploit
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
-- Discord masterx2484
+- Discord xploit0_0
 
 <!---
 Masterx0202/Masterx0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
